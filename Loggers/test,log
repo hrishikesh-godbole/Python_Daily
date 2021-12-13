@@ -1,0 +1,12 @@
+DEBUG:root:Add: 20 + 10 = 30
+DEBUG:root:Sub: 20 - 10 = 10
+DEBUG:root:Mul: 20 * 10 = 200
+DEBUG:root:Sub: 20 / 10 = 2.0
+DEBUG:root:Add: 50 + 8 = 58
+DEBUG:root:Sub: 50 - 8 = 42
+DEBUG:root:Mul: 50 * 8 = 400
+DEBUG:root:Sub: 50 / 8 = 6.25
+2021-12-13 20:56:00,192:DEBUG:Add: 50 + 8 = 58
+2021-12-13 20:56:00,192:DEBUG:Sub: 50 - 8 = 42
+2021-12-13 20:56:00,192:DEBUG:Mul: 50 * 8 = 400
+2021-12-13 20:56:00,192:DEBUG:Sub: 50 / 8 = 6.25
